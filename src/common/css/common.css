@@ -1,0 +1,174 @@
+@import "daterangepicker.css";
+.hide {
+  display: none !important;
+}
+input::-ms-clear {
+  display: none;
+}
+input::-ms-reveal {
+  display: none;
+}
+html {
+  height: 100%;
+}
+body {
+  font-family: 'PingFang SC', '微软雅黑';
+  background-color: #fff;
+}
+.w930 {
+  width: 930px;
+  margin: 0 auto;
+}
+.w800 {
+  width: 800px;
+  margin: 0 auto;
+}
+.w490 {
+  width: 490px;
+  margin: 0 auto;
+}
+.w400 {
+  width: 400px;
+  margin: 0 auto;
+}
+.w500 {
+  width: 500px;
+  margin: 0 auto;
+}
+.w800 {
+  width: 800px;
+  margin: 0 auto;
+}
+.w960 {
+  width: 960px;
+  margin: 0 auto;
+}
+a {
+  color: inherit;
+}
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+a:focus {
+  text-decoration: none;
+  color: inherit;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+i {
+  font-style: normal;
+}
+* {
+  outline: none;
+}
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+}
+::-ms-clear {
+  display: none;
+}
+::-ms-reveal {
+  display: none;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+.modal-dialog-l {
+  width: 100%;
+  height: 100%;
+}
+.modal-dialog-l .modal-content {
+  width: 240px;
+  min-height: 160px;
+  border-radius: 16px;
+  border: none;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #F9FBFF;
+  padding-bottom: 26px;
+}
+.modal-dialog-l .modal-content .tip-man {
+  width: 86px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+.modal-dialog-l .modal-content .tip-man img {
+  width: 100%;
+  /*height: 100%;*/
+}
+.modal-dialog-l .modal-content .tips {
+  color: #808080;
+  font-size: 14px;
+  margin-top: 25px;
+  text-align: center;
+}
+.modal-dialog-l .modal-content .close {
+  display: none;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 20px;
+}
+::-ms-clear,
+::-ms-reveal {
+  display: none;
+}
+.modal-content .close {
+  font-size: 40px !important;
+  font-weight: 200;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.tip-mod {
+  width: 240px;
+  padding-top: 14px;
+  padding-bottom: 26px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 1px solid #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: none;
+}
+.tip-mod img {
+  width: 90px;
+  margin-bottom: 10px;
+  margin-top: 14px;
+}
+.tip-mod p {
+  font-size: 14px;
+  color: white;
+}
+.right{
+  text-align: right;
+}
+.left{
+  text-align: left;
+}
